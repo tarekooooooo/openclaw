@@ -1,4 +1,4 @@
-# 🦞 OpenClaw — Personal AI Assistant
+# 🦞 TAREK STOR— Personal AI Assistant
 
 <p align="center">
     <picture>
